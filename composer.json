@@ -1,5 +1,7 @@
 {
     "require": {
-        "guzzlehttp/guzzle": "~5.0"
+        "guzzlehttp/guzzle": "~5.0",
+        "pimple/pimple": "~3.0",
+        "phpunit/phpunit": "~4.3"
     }
 }
